@@ -1,0 +1,436 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "Eternal Health Potion",
+      "description": "Unlimited use health potion",
+      "price": 5.99,
+      "image": "https://empireofsight.com/items/0.png",
+      "text": ""
+    },
+    {
+      "id": 1,
+      "name": "Majestic Mana Potion",
+      "description": "Unlimited use of mana potion",
+      "price": 5.99,
+      "image": "https://empireofsight.com/items/1.png",
+      "text": ""
+    },
+    {
+      "id": 2,
+      "name": "Allies Helm",
+      "description": "For those who survived the Haternaut Wars",
+      "price": 3.99,
+      "image": "https://empireofsight.com/items/2.png",
+      "text": "Allows you to enter the mine in Sunwood"
+    },
+    {
+      "id": 3,
+      "name": "Enraged Defender",
+      "description": "than live with shame",
+      "price": 4.99,
+      "image": "https://empireofsight.com/items/3.png",
+      "text": "Allows you to go to the desert 🏜️"
+    },
+    {
+      "id": 4,
+      "name": "Knights Pauldrons",
+      "description": "a perfect gentle-knight",
+      "price": 3.99,
+      "image": "https://empireofsight.com/items/4.png",
+      "text": "Allows you to enter the Harvesting Patch in Pelicus"
+    },
+    {
+      "id": 5,
+      "name": "Barbarian Horned Helm",
+      "description": "Hun Fun",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/5.png",
+      "text": ""
+    },
+    {
+      "id": 6,
+      "name": "Brigandine Shoulders",
+      "description": "Stiff as a board",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/6.png",
+      "text": ""
+    },
+    {
+      "id": 7,
+      "name": "Hera's Wooden Crossbow",
+      "description": "Hera Teleia",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/7.png",
+      "text": ""
+    },
+    {
+      "id": 8,
+      "name": "Magical Tome",
+      "description": "Dantalion's seal",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/8.png",
+      "text": ""
+    },
+    {
+      "id": 9,
+      "name": "Merlin's Sceptre",
+      "description": "Magical I am",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/9.png",
+      "text": ""
+    },
+    {
+      "id": 10,
+      "name": "Vidar's Bronze Cleaver",
+      "description": "Your words",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/10.png",
+      "text": ""
+    },
+    {
+      "id": 11,
+      "name": "Enchanted Brigandine Shoulders",
+      "description": "Light as a feather",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/11.png",
+      "text": ""
+    },
+    {
+      "id": 12,
+      "name": "Hermes Winged Helm",
+      "description": "TRISMEGISTUS!",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/12.png",
+      "text": ""
+    },
+    {
+      "id": 13,
+      "name": "Pristine Shroud",
+      "description": "Can you see",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/13.png",
+      "text": ""
+    },
+    {
+      "id": 14,
+      "name": "Royal Tower",
+      "description": "Here ye here ye",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/14.png",
+      "text": ""
+    },
+    {
+      "id": 15,
+      "name": "Silver Dirk",
+      "description": "Time and tide",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/15.png",
+      "text": ""
+    },
+    {
+      "id": 16,
+      "name": "Balanced Tower",
+      "description": "Level on all points",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/16.png",
+      "text": ""
+    },
+
+    {
+      "id": 17,
+      "name": "Bejewled Cutlass",
+      "description": "A good dream",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/17.png",
+      "text": ""
+    },
+    {
+      "id": 18,
+      "name": "Emerald Tablets",
+      "description": "Silence is of great profit",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/18.png",
+      "text": ""
+    },
+    {
+      "id": 19,
+      "name": "Epic Brigandine Shoulders",
+      "description": "ohh epic aye",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/19.png",
+      "text": ""
+    },
+    {
+      "id": 20,
+      "name": "Hera's Nature Crossbow",
+      "description": "The matron goddess",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/20.png",
+      "text": ""
+    },
+    {
+      "id": 21,
+      "name": "Merlin's Enchanted Sceptre",
+      "description": "Myrddin the Wild",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/21.png",
+      "text": ""
+    },
+    {
+      "id": 22,
+      "name": "Mystic Shroud",
+      "description": "Baby blueeee eyes",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/22.png",
+      "text": ""
+    },
+    {
+      "id": 23,
+      "name": "Steel Spikes",
+      "description": "Shiny and pointy",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/23.png",
+      "text": ""
+    },
+    {
+      "id": 24,
+      "name": "Templars Faceguard",
+      "description": "No Shame",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/24.png",
+      "text": ""
+    },
+    {
+      "id": 25,
+      "name": "Vidar's Enchanted Cleaver",
+      "description": "my blade shall taste no blood",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/25.png",
+      "text": ""
+    },
+    {
+      "id": 26,
+      "name": "Viridescent Dirk",
+      "description": "Wait for no man",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/26.png",
+      "text": ""
+    },
+    {
+      "id": 27,
+      "name": "Blessed Faceguard",
+      "description": "Vanish in glory",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/27.png",
+      "text": ""
+    },
+    {
+      "id": 28,
+      "name": "Bloody Brigandine Shoulders",
+      "description": "Stained with blood",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/28.png",
+      "text": ""
+    },
+    {
+      "id": 29,
+      "name": "Crystal Shelter",
+      "description": "Cystal Clear",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/29.png",
+      "text": ""
+    },
+    {
+      "id": 30,
+      "name": "Elemental Tower",
+      "description": "Earth, water, fire, and wind",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/30.png",
+      "text": ""
+    },
+    {
+      "id": 31,
+      "name": "Etheral Crystal Shoulders",
+      "description": "Dripping in ether",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/31.png",
+      "text": ""
+    },
+    {
+      "id": 32,
+      "name": "Hermes Crystal Helm",
+      "description": "O ye people",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/32.png",
+      "text": ""
+    },
+    {
+      "id": 33,
+      "name": "Leather Casque",
+      "description": "Forgotten Times",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/33.png",
+      "text": ""
+    },
+    {
+      "id": 34,
+      "name": "Sunshine Crystal Shoulders",
+      "description": "Makes cats nap",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/34.png",
+      "text": ""
+    },
+    {
+      "id": 35,
+      "name": "Vidar's Static Cleaver",
+      "description": "upon my farm in silent meditation",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/35.png",
+      "text": ""
+    },
+    {
+      "id": 36,
+      "name": "Merlin's Lightning Sceptre",
+      "description": "Not Excalibur",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/36.png",
+      "text": ""
+    },
+    {
+      "id": 37,
+      "name": "Belphegors Sloth",
+      "description": "Go make discoveries..",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/37.png",
+      "text": ""
+    },
+    {
+      "id": 38,
+      "name": "Hermes Mythic Helm",
+      "description": "As above, so below",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/38.png",
+      "text": ""
+    },
+    {
+      "id": 39,
+      "name": "Vidar's Flame Cleaver",
+      "description": "the blood I have spilled",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/39.png",
+      "text": ""
+    },
+    {
+      "id": 40,
+      "name": "Fuse Static Cleaver",
+      "description": "upon my farm in silent meditation",
+      "image": "https://empireofsight.com/items/40.png",
+      "text": ""
+    },
+    {
+      "id": 41,
+      "name": "Fuse Potion",
+      "description": "Unlimited use health & mana potion",
+      "price": 999.99,
+      "image": "https://empireofsight.com/items/41.png",
+      "text": ""
+    },
+    {
+      "id": 42,
+      "name": "Fuse ChestPlate",
+      "description": "Fused to Perfection",
+      "price": 1.99,
+      "image": "https://empireofsight.com/items/42.png",
+      "text": ""
+    },
+    {
+      "id": 43,
+      "name": "Fuse Greaves",
+      "description": "Fused to Perfection",
+      "price": 4.99,
+      "image": "https://empireofsight.com/items/43.png",
+      "text": ""
+    },
+    {
+      "id": 44,
+      "name": "Fuse Platelegs",
+      "description": "Fused to Perfection",
+      "price": 2.99,
+      "image": "https://empireofsight.com/items/44.png",
+      "text": ""
+    },
+    {
+      "id": 45,
+      "name": "Fuse Wraps",
+      "description": "Fused to Perfection",
+      "price": 3.99,
+      "image": "https://empireofsight.com/items/45.png",
+      "text": ""
+    },
+    {
+      "id": 46,
+      "name": "Fuse Amulet of Power",
+      "description": "Fused to Perfection",
+      "price": 7.99,
+      "image": "https://empireofsight.com/items/46.png",
+      "text": ""
+    },
+    {
+      "id": 47,
+      "name": "Fuse Fel Cloak",
+      "description": "Fused to Perfection",
+      "price": 5.99,
+      "image": "https://empireofsight.com/items/47.png",
+      "text": ""
+    },
+    {
+      "id": 48,
+      "name": "Fuse Ring of Life",
+      "description": "Fused to Perfection",
+      "price": 9.99,
+      "image": "https://empireofsight.com/items/48.png",
+      "text": ""
+    },
+    {
+      "id": 49,
+      "name": "Fuse Shard",
+      "description": "Fused to Perfection",
+      "price": 9.99,
+      "image": "https://empireofsight.com/items/49.png",
+      "text": ""
+    },
+    {
+      "id": 50,
+      "name": "Summon Mr.Greenfield",
+      "description": "Mr. Greenfield a Binance Greenfield Gnome",
+      "price": 9.99,
+      "image": "https://empireofsight.com/items/50.png",
+      "text": ""
+    },
+    {
+      "id": 51,
+      "name": "Summon Scooter",
+      "description": "Scooter the Fuse Network Turtle",
+      "price": 9.99,
+      "image": "https://empireofsight.com/items/51.png",
+      "text": ""
+    },
+    {
+      "id": 52,
+      "name": "Summon Switch",
+      "description": "Switch the sneaky Fuse Network Alien Dog",
+      "price": 9.99,
+      "image": "https://empireofsight.com/items/52.png",
+      "text": ""
+    },
+    {
+      "id": 53,
+      "name": "Summon Vivian",
+      "description": "Vivian the Fuse Network Fire Fox",
+      "price": 9.99,
+      "image": "https://empireofsight.com/items/53.png",
+      "text": ""
+    }
+  ]
+}

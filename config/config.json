@@ -1,0 +1,75 @@
+{
+  "WEB3": {
+    "NETWORK": {
+      "ETHEREUM": {
+        "CHAIN_ID": "0x1",
+        "CHAIN_DEC": "1",
+        "CHAIN_NAME": "Ethereum Mainnet",
+        "CURRENCY_NAME:": "ETH",
+        "CURRENCY_SYMBOL": "ETH",
+        "WEBSOCKET": "wss://eth-mainnet.g.alchemy.com/v2/_6maO3LKO9LH59fps1oXjjanPN_yk7gi",
+        "RPC_PUBLIC": "https://eth-mainnet.g.alchemy.com/v2/_6maO3LKO9LH59fps1oXjjanPN_yk7gi",
+        "RPC_PRIVATE": "https://eth-mainnet.g.alchemy.com/v2/_6maO3LKO9LH59fps1oXjjanPN_yk7gi",
+        "BLOCK_EXPLORER": "https://etherscan.io",
+        "ACCESS_PASS_ADDRESS": "",
+        "ITEM_ADDRESS": "0x8BcF36ef04BD4bEb465991247a9cdb7a0A9a2B31"
+      },
+      "BSC": {
+        "CHAIN_ID": "0x38",
+        "CHAIN_DEC": "56",
+        "CHAIN_NAME": "Binance Smart Chain",
+        "CURRENCY_NAME:": "BNB",
+        "CURRENCY_SYMBOL": "BNB",
+        "WEBSOCKET": "wss://bsc-mainnet.nodereal.io/ws/v1/f4cad4477be44deb89e501fd6f03e0e8",
+        "RPC_PUBLIC": "https://bsc-mainnet.nodereal.io/v1/f4cad4477be44deb89e501fd6f03e0e8",
+        "RPC_PRIVATE": "https://bsc-mainnet.nodereal.io/v1/f4cad4477be44deb89e501fd6f03e0e8",
+        "BLOCK_EXPLORER": "https://bscscan.com",
+        "ACCESS_PASS_ADDRESS": "0x8BcF36ef04BD4bEb465991247a9cdb7a0A9a2B31",
+        "ITEM_ADDRESS": "0x4E611faE83A4520115a463FAd4f1B042F52A9CfF"
+      },
+      "AVALANCHE": {
+        "CHAIN_ID": "0xA86A",
+        "CHAIN_DEC": "43114",
+        "CHAIN_NAME": "Avalanche Main",
+        "CURRENCY_NAME:": "Avalanche",
+        "CURRENCY_SYMBOL": "AVAX",
+        "WEBSOCKET": "wss://open-platform.nodereal.io/ws/f4cad4477be44deb89e501fd6f03e0e8/avalanche-c/ext/bc/C/ws/",
+        "RPC_PUBLIC": "https://open-platform.nodereal.io/f4cad4477be44deb89e501fd6f03e0e8/avalanche-c/ext/bc/C/rpc",
+        "RPC_PRIVATE": "https://open-platform.nodereal.io/f4cad4477be44deb89e501fd6f03e0e8/avalanche-c/ext/bc/C/rpc",
+        "BLOCK_EXPLORER": "https://snowtrace.io",
+        "ACCESS_PASS_ADDRESS": "0x8BcF36ef04BD4bEb465991247a9cdb7a0A9a2B31",
+        "ITEM_ADDRESS": "0x3691ECfd3e42Fb8173924FB182801fa8736C4871"
+      },
+      "POLYGON": {
+        "CHAIN_ID": "0x89",
+        "CHAIN_DEC": "137",
+        "CHAIN_NAME": "Polygon Mainnet",
+        "CURRENCY_NAME:": "MATIC",
+        "CURRENCY_SYMBOL": "MATIC",
+        "WEBSOCKET": "wss://polygon-mainnet.g.alchemy.com/v2/rjeY5goYZFzQnms3ZkU1TtKL4DUHBA4W",
+        "RPC_PUBLIC": "https://polygon-mainnet.g.alchemy.com/v2/rjeY5goYZFzQnms3ZkU1TtKL4DUHBA4W",
+        "RPC_PRIVATE": "https://polygon-mainnet.g.alchemy.com/v2/rjeY5goYZFzQnms3ZkU1TtKL4DUHBA4W",
+        "BLOCK_EXPLORER": "https:/polygonscan.com/",
+        "ACCESS_PASS_ADDRESS": "0x8BcF36ef04BD4bEb465991247a9cdb7a0A9a2B31",
+        "ITEM_ADDRESS": "0x5b9E6f1F10b398073983d656f768fA0d63988B69"
+      },
+      "FUSE": {
+        "CHAIN_ID": "0x7A",
+        "CHAIN_DEC": "122",
+        "CHAIN_NAME": "Fuse Mainnet",
+        "CURRENCY_NAME:": "FUSE",
+        "CURRENCY_SYMBOL": "FUSE",
+        "WEBSOCKET": "wss://explorer-node.fuse.io/ws",
+        "RPC_PUBLIC": "https://fuse.liquify.com",
+        "RPC_PRIVATE": "https://fuse.liquify.com",
+        "BLOCK_EXPLORER": "https://explorer.fuse.io/",
+        "ACCESS_PASS_ADDRESS": "",
+        "ITEM_ADDRESS": "0x4EC3E1086CE46a8f8Af28db4FcfeCF2D51De337b",
+        "REWARD_ADDRESS": "0xF21f356bE02Db9c7351Bc548C585C635293BA569"
+      }
+    },
+    "UTILS": {
+      "ZERO_ADDRESS": "0x0000000000000000000000000000000000000000"
+    }
+  }
+}

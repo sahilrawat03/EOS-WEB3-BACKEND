@@ -1,0 +1,74 @@
+{
+  "WEB3": {
+    "NETWORK": {
+      "ETHEREUM": {
+        "CHAIN_ID": "0x5",
+        "CHAIN_DEC": "5",
+        "CHAIN_NAME": "Ethereum Goerli",
+        "CURRENCY_NAME:": "ETH",
+        "CURRENCY_SYMBOL": "ETH",
+        "WEBSOCKET": "wss://eth-goerli.g.alchemy.com/v2/1ePMFHtL4f4KXiXR6I0YULs6cRqZTThJ",
+        "RPC_PUBLIC": "https://eth-goerli.g.alchemy.com/v2/1ePMFHtL4f4KXiXR6I0YULs6cRqZTThJ",
+        "RPC_PRIVATE": "https://eth-goerli.g.alchemy.com/v2/1ePMFHtL4f4KXiXR6I0YULs6cRqZTThJ",
+        "BLOCK_EXPLORER": "https://goerli.etherscan.io",
+        "ACCESS_PASS_ADDRESS": "0xD20f7c4FB158979f4cc37d8eC4A52D13B9cCD2bB",
+        "ITEM_ADDRESS": "0x61d1351BDE49B881CF3E3552eCD43386C939631F"
+      },
+      "BSC": {
+        "CHAIN_ID": "0x61",
+        "CHAIN_DEC": "97",
+        "CHAIN_NAME": "Smart Chain Testnet",
+        "CURRENCY_NAME:": "BNB",
+        "CURRENCY_SYMBOL": "BNB",
+        "WEBSOCKET": "wss://bsc-testnet.nodereal.io/ws/v1/f4cad4477be44deb89e501fd6f03e0e8",
+        "RPC_PUBLIC": "https://bsc-testnet.nodereal.io/v1/f4cad4477be44deb89e501fd6f03e0e8",
+        "RPC_PRIVATE": "https://bsc-testnet.nodereal.io/v1/f4cad4477be44deb89e501fd6f03e0e8",
+        "BLOCK_EXPLORER": "https://testnet.bscscan.com",
+        "ACCESS_PASS_ADDRESS": "0xC4F2BDA230C7746c7C18F596543B8Bb110893CBF",
+        "ITEM_ADDRESS": "0x59Ddbee108142834FF453bf8Dd57e39AeB20B08B"
+      },
+      "AVALANCHE": {
+        "CHAIN_ID": "0xA869",
+        "CHAIN_DEC": "43113",
+        "CHAIN_NAME": "Avalanche Testnet C-Chain",
+        "CURRENCY_NAME:": "Avalanche",
+        "CURRENCY_SYMBOL": "AVAX",
+        "WEBSOCKET": "wss://api.avax-test.network/ext/bc/C/ws",
+        "RPC_PUBLIC": "https://api.avax-test.network/ext/bc/C/rpc",
+        "RPC_PRIVATE": "https://api.avax-test.network/ext/bc/C/rpc",
+        "BLOCK_EXPLORER": "https://testnet.snowtrace.io/",
+        "ACCESS_PASS_ADDRESS": "0x2B6F240EB7770688354FbFae5407578506683e19",
+        "ITEM_ADDRESS": "0x04B59F553D8278CF1f097da4EAF0F9a3F2B8e414"
+      },
+      "POLYGON": {
+        "CHAIN_ID": "0x13881",
+        "CHAIN_DEC": "80001",
+        "CHAIN_NAME": "Polygon Mumbai",
+        "CURRENCY_NAME:": "MATIC",
+        "CURRENCY_SYMBOL": "MATIC",
+        "WEBSOCKET": "wss://polygon-mumbai.g.alchemy.com/v2/aOBEabvslTLT4HkleonpmH4Jh16ydYNH",
+        "RPC_PUBLIC": "https://polygon-mumbai.g.alchemy.com/v2/aOBEabvslTLT4HkleonpmH4Jh16ydYNH",
+        "RPC_PRIVATE": "https://polygon-mumbai.g.alchemy.com/v2/aOBEabvslTLT4HkleonpmH4Jh16ydYNH",
+        "BLOCK_EXPLORER": "https://mumbai.polygonscan.com/",
+        "ACCESS_PASS_ADDRESS": "0xA5744158334a796E543c35B60cc98610AD9735c3",
+        "ITEM_ADDRESS": "0x6798f080F7B0da3D5583c0e8E06c1A2b3f2371D1"
+      },
+      "FUSE": {
+        "CHAIN_ID": "0x7B",
+        "CHAIN_DEC": "123",
+        "CHAIN_NAME": "Fuse Spark Testnet",
+        "CURRENCY_NAME:": "FUSE",
+        "CURRENCY_SYMBOL": "FUSE",
+        "WEBSOCKET": "",
+        "RPC_PUBLIC": "https://rpc.fusespark.io/",
+        "RPC_PRIVATE": "https://rpc.fusespark.io/",
+        "BLOCK_EXPLORER": "https://explorer.fusespark.io/",
+        "ACCESS_PASS_ADDRESS": "",
+        "ITEM_ADDRESS": "0x49AA2861b2FD948844DE6B836a38Bd1e36994C9C"
+      }
+    },
+    "UTILS": {
+      "ZERO_ADDRESS": "0x0000000000000000000000000000000000000000"
+    }
+  }
+}
